@@ -9,4 +9,4 @@
 
 4 -- react-native-run-ios or react-native-run-android
 
-https://prnt.sc/n158f6
+<iframe src="https://giphy.com/embed/1msBs75P7DVgi2AcEu" width="328" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/1msBs75P7DVgi2AcEu">via GIPHY</a></p>
