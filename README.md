@@ -1,5 +1,6 @@
 # React-Native_LottiFilesTut
 
+![](https://media.giphy.com/media/20EF1010FBvVVI6UCn/source.gif)
 
 1 -- git clone https://github.com/Muhammad-Iqbal/React-Native_LottiFilesTut.git
 
