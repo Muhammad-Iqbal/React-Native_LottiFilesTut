@@ -8,3 +8,5 @@
 3 -- yarn add or npm install
 
 4 -- react-native-run-ios or react-native-run-android
+
+https://prnt.sc/n158f6
